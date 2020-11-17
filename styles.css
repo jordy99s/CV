@@ -1,0 +1,27 @@
+body{
+    border: 20px solid #bd2b2b;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+}
+
+h2{
+    text-transform: uppercase;
+}
+img{
+    width: 200px;
+}
+.name{
+    text-align: center;
+}
+.personal-info{
+    text-align: center;
+    font-weight: bold;
+}
+.element{
+    font-weight: bold;
+    color: #0070C0;
+}
